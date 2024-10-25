@@ -7,3 +7,4 @@ pillow
 opencv-python
 sklearn
 scikit-learn
+redis
